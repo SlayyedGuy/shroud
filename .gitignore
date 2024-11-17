@@ -1,0 +1,9 @@
+.clangd
+.clang-format
+compile_commands.json
+build/
+__pycache__/
+data/
+weight/
+venv/
+*.engine
